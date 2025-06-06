@@ -1,0 +1,22 @@
+{
+  "command": "config",
+  "emb_file": "data/emb_50.txt",
+  "k": 10,
+  "kcnt": 382,
+  "knowledge_hidden_size": 100,
+  "num_layers": 1,
+  "score_mode": "concat",
+  "seq_hidden_size": 100,
+  "topic_size": 100,
+  "workspace": "data",
+  "with_last": "False",
+  "model":"OKT",
+  "KFold":0,
+  "Fold":0,
+  "epoch":200,
+  "data_file":"data/sample_data.csv",
+  "exam_feature_file":"data/exam_features.csv",
+  "co_emb_file":"data/exam_features.csv",
+  "knows":"data/CO.txt",
+  "knowids":"data/COID.txt"
+}

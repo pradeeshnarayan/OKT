@@ -1,0 +1,382 @@
+8a838345673ec61901673ecddb630041|Learn to apply image enhancement techniques judiciously
+8a838345673ec61901673ece37410055|Learn to device keypoint detection strategies
+8a838345673ec61901673ecf2740007e|"Learn to detect, identify & track objects"
+8a838345673ec61901673ecec7a4006b|Learn to device keypoint descriptors to favour Keypoint matching
+8a838345673ec61901673ecf738f008e|Learn to get depth perception from images
+8a838345673ec61901673ecd4877002d|Understand Image & Image Formation Model
+8a8383456788d6e00167a1ac5a2a4000|Understanding of Embedded Systems using modular design and abstraction
+8a8383456788d6e00167a1ac8e8d400c|Learn how to read a data sheet and compute the value of registers. Understand the strategic use of memory and other I/O modules in TM4C123 microcontroller.
+8a8383456788d6e00167a1acc34b404f|Analyse how to access Microcontroller ports using Embedded C program
+8a8383456788d6e00167a1acf7004062|Debugging and verification using a simulator and on the real microcontroller
+8a8383456788d6e00167a1ad2814407f|"Investigate measures for debugging using logical analyser, and software instrumentation.  Estimation of time to achieve accurate delays using Systick and other timers."
+8a8383456788d6e00167a1ad56b64083|Develop problem solving skill to solve real world problems using Finite State Machine
+8a8383456788d6e00167a1ad8c104099|"Designing a circuit and construction on a solderless breadboard, interfacing the input and output in it with the Microcontroller."
+8a8383456788d6e00167a1adf7d640b4|"The implementation of an I/O driver using synchronization, Multi-threaded programming using interrupts."
+8a8383456788d6e00167a1ae468d40c2|Integrate the concepts learn to solve real world problems in designing and implementing a project based on environment or sustainability theme.
+8a838345676994a101677d6d809010af|Identify the design patterns to solve object oriented design problems
+8a838345676994a101677d6db31710b3|Analyze & Combine Design Patterns to work together in software design process
+8a838345676994a101677d6dd31710b7|Construct Software Systems &Components using Design Pattern(Catalog's)
+8a838345676994a101677d6dfd2c10bb|"Implement    Creational    Patterns(Singleton,    Factory, Abstract Factory)&Structural Patterns for given Applications"
+8a838345676994a101677d6e278510bf|Evaluate Design Solutions by using Behavioral Patterns
+8a838345673ec61901673ecc5ea40011|Understand the algorithms available for performing parallel computing
+8a838345673ec61901673eccbd2d0019|Understand the Models and design aspects for distributed Algorithms with MPI
+8a838345673ec61901673ecd2da00029|Understand  the  different  primitives  available  for  Group  communication  using  synchronization criteria
+8a838345673ec61901673ecd8c9d0039|Analyze approaches for Thread representation and recognition
+8a838345673ec61901673ece1e4a004d|"Identify,   Analyze   and   apply   algorithms   for   Load   Distribution   and   scheduling   for   different applications."
+8a8383456750357a016755187ed109a0|Understand the practical timing requirements and different aspects of  Real-time (RT) systems
+8a8383456750357a016755190a2d09a4|Understand and make right hardware design choices for building a Real-time (RT) system
+8a8383456750357a0167551968b609a8|Understand various Software requirement engineering approaches
+8a8383456750357a01675519c0cb09ac|Understand and make use of Software Design approaches.
+8a8383456750357a0167551a8bb009b0|Analyse and Ensure that performance of a RT system matches its requirements
+8a8383456750357a0167551aab7109b4|Understanding and Analysing Principles of Real-time Operating System Design.
+2c9fadbd77ff5d05017802ff98824cc9|"Define a vector space in terms of an arbitrary set with defined operations of vector addition and scalar multiplication that satisfy the vector space axioms. Introduce different examples of vector spaces including matrix spaces, function spaces under different definitions of vector addition and scalar multiplications"
+2c9fadbd77ff5d05017803000a984ccd|Identify when a linear system is consistent and when it is inconsistent and interpret the solution geometrically. Dealing with the basis and dimension of the solution space and also with rank and nullity of the matrix
+2c9fadbd77ff5d050178030068b04cd1|Construct an orthonormal basis from a given basis and obtain a basis for the orthogonal complement 15MAT301.2.CO04
+2c9fadbd77ff5d0501780300d7a74cd5|Distinguish between linear and nonlinear transformations. Define the matrix representation of a linear transformation from to Rn to Rn
+2c9fadbd77ff5d050178030132334cd9|"Solve linear systems represented as linear transforms and express linear transforms in other forms, such as matrix equations or as vector equations."
+8a838345695bde6601699aaf65fe1fec|Understand the principles of software engineering
+8a838345695bde6601699aafb9b61ff3|Understand various software process models
+8a838345695bde6601699aaffdb81ffa|Apply the appropriate design methodology for a real world application
+8a838345695bde6601699ab087462004|Evaluate a system developed for real-world applications in Agile Mode
+8a838345695bde6601698faf20eb0278|"Apply the parameter estimation techniques (MLE, Bayesian Parameter Estimation & Non Parametric Density Estimation) and use it to design real world pattern recognition applications."
+8a838345695bde6601698fafbce80280|"Have strong mathematical understanding on the traditional classifiers like Bayes, SVM, and Neural networks"
+8a838345695bde6601698faedcf30274|"Learn about the Bayes classification framework, the minimum error rate classifier"
+8a838345695bde6601698fafeeca0284|"Be able to model, design and develop pattern recognition application for real world applications."
+8a838345695bde6601698fae7dce0270|Understand and be able to apply the methods of regression and classification
+8a838345683c675d016875389dfc21fb|Understand how to write an argument using logical notation and determine if the argument is        or is not valid.
+8a838345695bde660169b8afcc104723|Understand the basic principles of sets and operations in sets.
+8a838345695bde660169b8bffafa54f4|Ability to demonstrate an understanding of relations and functions and be able to determine  their properties
+8a838345695bde660169be9415b069e7|Ability to  demonstrate different traversal methods for trees and graphs
+8a838345695bde660169be94a2006a25|Ability to Model problems in Computer Science using graphs and tree.
+2c9fadbd7b285198017b29d283350042|Understand the fundamental concepts of android operating system and android application development.
+2c9fadbd7b285198017b29d29f6a0046|Understand the various building blocks of native android applications.
+2c9fadbd7b285198017b29d2bc19004a|Design android specific user interface (UI)
+2c9fadbd7b285198017b29d2d91b004e|Design and develop applications using android services and sensors
+2c9fadbd7b285198017b29d2ef1b0052|Understand and apply data storage and sharing techniques for applications.
+8a838345695bde6601699fa3be5e38d6|Understand the basic architectural components of computer networks and apply mathematical foundations to solve computational problems in computer networking.
+8a838345695bde6601699fa4882e38ed|"Apply network application services, protocols and programming"
+8a838345695bde6601699fa661413983|"Analyze protocols for data transfer mechanisms, buffer management and flow handling mechanisms"
+8a838345695bde6601699fa700c83987|Analyze devices for routing and apply routing protocols
+8a838345695bde6601699fa7a0fb3999|"Understand Local Area Network design components, network access protocols and error handling code"
+8a838345673ec61901673ed4d06d010b|Apply markup and scripting languages to design and validate dynamic webpages
+8a838345673ec61901673ed5dadc0117|"Design, develop and deploy client/server applications"
+8a838345673ec61901673ed55503010f|Evaluate the appropriateness of client/server side scripting for a given world web application
+8a838345673ec61901673ed447ec0103|Understand the basic concepts of web programming and web server architecture
+8a8383456721a4a101672a88b8ee0079|Understand the fundamental concepts of Data mining and basic theory underlying Machine learning.
+8a8383456721a4a101672a8aa0f0007d|Understand the types of the data to be mined and apply pre-processing methods.
+8a8383456721a4a101672a8b20c10081|Apply appropriate classication and clustering techniques for real word applications.
+8a8383456721a4a101672a8b9a3c0085|Analyze the performance of various classiers and clusters techniques
+8a8383456721a4a101672a8bf76f0089|Apply and evaluate the interesting patterns discovered from association mining
+8a838345673ec61901673ee4fd6d02fb|Understand the very basics of Lazy Functional Language
+8a838345673ec61901673ee84559037f|"Understand type checking, type-inference as implemented in Haskell"
+8a838345673ec61901673ee982060388|"Write, understand and analyse non-trivial functional programs in Haskell"
+8a838345673ec61901673eea0bb1039e|"Including the use of recursion, lists, higher-order functions"
+8a838345695bde6601698ff54c8a02e7|"To understand the basic concepts, terminologies and issues of software project management"
+8a838345695bde6601698ff5907a02eb|To apply appropriate methods and models for the development of solutions
+8a838345695bde6601698ff6152602ef|To analyze the cost-benefits of calculations so as to optimize the selection strategy
+8a838345695bde6601698ff6a5fc02f7|To design and evaluate network planning models with criticality
+8a838345695bde6601698ff6601502f3|"To evaluate methods, models and technologies towards achieving project success"
+8a8383456a8215e2016b7414617d3f91|Understand the fundamental concepts of android operating system and android application development.
+2c9fadbd7b285198017b29d10eca0032|Understand the various building blocks of native android applications.
+2c9fadbd7b285198017b29d149470036|Design android specific user interface (UI)
+2c9fadbd7b285198017b29d16716003a|Design and develop applications using android services and sensors
+2c9fadbd7b285198017b29d17e74003e|Understand and apply data storage and sharing techniques for applications.
+8a838345673ec61901673fda7d1d07f3|"Provide ?an ?understanding ?of ?principal ?concepts, ?major ?issues, ?technologies, ?and basic ?approaches ?in ?information ?security."
+8a838345673ec61901673fdac8a907fd|Apply authentication services and mechanisms.
+8a838345673ec61901673fdb1b680801|Understanding of X.509 Certificates.
+8a838345673ec61901673fdbcc7e0809|"Develop an understanding of security policies (such as authentication, integrity and confidentiality), as well as protocols to implement such policies in the form of message exchanges"
+8a838345673ec61901673fdc0fa50813|Comprehend and apply web security services and mechanisms for E-commerce applications.
+8a838345673ec61901673fdc4a530817|"Gain familiarity with prevalent attacks, defences against them, and forensics to investigate the aftermath"
+8a838345673ec61901673fdb87dc0805|Understand email security services and mechanisms.
+8a838345673ec61901673ecfefe300a2|"Understand the principles of software engineering, Identify the importance of standards in the quality management process and their impact on final product"
+8a838345673ec61901673ed0464300b1|Analyze product quality and In-process quality metrics for software development and maintenance.  Exposure to various software quality attributes and importance of quality in a business context
+8a838345673ec61901673ed8012c013b|Select the appropriate design methodology for a real world application
+8a838345673ec61901673ed890c0014e|"Design a software quality plan for a software project - to include sections on organizational quality task, responsibilities through a case study Software Quality Assurance Management (SQAM)."
+8a838345673ec61901673ed92af7015a|"Apply key quality assurance techniques like reviews, audits and walkthroughs tailored for specific software development environments. Exposure to industry standards"
+8a83834568fa429a0169143440422fdc|Revise the foundations of machine learning concepts leading to neural networks
+8a83834568fa429a01691434f5702ff0|Learn the foundations of deep neural networks for unsupervised learning scenarios
+8a83834568fa429a01691434b3242fe8|Understand the concepts of deep neural networks for analyzing images
+8a83834568fa429a016914346b982fe0|Understand the key aspects of forward and backward propagation in neural networks
+8a83834568fa429a0169143494762fe4|Analyze the tradeoff between bias and variance and learn techniques to handle them
+8a838345673ec61901673f6b134d069b|"Overview of Probability Theory, significance of �Information� with respect to information Theory."
+8a838345673ec61901673f6b7f8a069f|"Derive equations for entropy, mutual information and channel capacity for different channels."
+8a838345673ec61901673f6bebc006a7|Implement the various types of source coding algorithms and analyse their performance.
+8a838345673ec61901673f6c3fe906ab|Explain various methods of generating and detecting different types of error correcting codes
+8a838345673ec61901673f6c84d906b3|Design linear block codes and cyclic codes (encoding and decoding).
+8a838345673ec61901673f6cdb7b06bf|Implement and decode a sequence at the receiver using Trellis decoder and Viterbi decoder.
+8a838345695bde660169c90b76c958c9|"Define a vector space in terms of an arbitrary set with defined operations of vector addition and scalar multiplication that satisfy the vector space axioms. Introduce different examples of vector spaces including matrix spaces, function spaces under different definitions of vector addition and scal"
+8a838345695bde660169c90c384b5906|Construct an orthonormal basis from a given basis and obtain a basis for the orthogonal complement
+8a838345695bde660169c90c8a085920|Distinguish between linear and nonlinear transformations. Define the matrix representation of a linear transformation    from  to  .
+8a838345695bde660169c90ccb6d592d|Queueing Theory gives the mathematical approach to the analysis of waiting lines in any setting where arrival rate of subjects is faster than the system can handle. It is applicable to healthcare setting when the systems have excess capacity to accommodate random variations.
+8a838345692edb1e01692f8663490002|Understand the architecture and functionalities of modern OS
+8a838345692edb1e01692f86c8a90006|Understand and apply the algorithms for resource management and scheduling
+8a838345692edb1e01692f870690000a|Apply semaphores and monitors for classical and real world synchronization scenarios
+8a838345692edb1e01692f878a27000e|Ability to engage in independent learning as a team to study characteristic features of  modern operating systems
+8a83834565dc8cac0165e6c9a3480359|15CSE301.CO1 Understand the design principles of Instruction Set Architecture (ISA) by taking MIPS as reference.
+8a83834565dc8cac0165e6cb64540371|15CSE301.CO3 Understand design of instruction execution using Multiple Clock Cycles and Analyze / Evaluate the performance of processors.
+8a83834565dc8cac0165e6cb0709036b|"15CSE301.CO2 Design, Implementation and Analysis of datapath for instruction execution using Single Clock Cycle."
+8a83834565dc8cac0165e6cc28f6037d|15CSE301.CO5 Understand the working of Arithmetic and Logic Unit
+8a83834565dc8cac0165e6cca413038f|15CSE301.CO6 Understanding the concepts of Memory Organization
+8a83834565dc8cac0165e6cbd1cc0377|15CSE301.CO4 Understand Pipelined architecture and Design of 3 and 5 stage pipeline processor in MIPS
+8a838345673ec619016740737f520d19|Analyze the properties of different languages
+8a838345673ec61901674076f92f0d1d|Design and normalization of formal grammars for different languages.
+8a838345673ec6190167407847150d21|Development and conversion of finite state machines
+8a838345673ec6190167407982da0d25|Apply the concept of stack data structures for developing an automata
+8a838345673ec619016744a495f40ed1|Design and develop computing devices  such as Turing machines
+8a83834568ae10080168c17a819c6a45|Understand the the basic concepts in information retrieval models and techniques
+8a83834568ae10080168c17b309e6a6b|Analyse algebraic and Probability models on document retrieval process.
+8a83834568ae10080168c17b94126abb|Analyse text classication and clustering techniques
+8a83834568ae10080168c17c54c26b35|"Be able to model, design and  develop IR systems or Search engines  for real world applications"
+8a83834568ae10080168c17ac86f6a4b|Apply and compute text pre-processing Methods
+8a83834568ae10080168c17bf4636b2b|Analyse the features of retrieval systems to enable web based search.
+2c9f8447733f1f1a0173445ecd6520ed|Evaluate the appropriateness of client/server side scripting for a given real world web application
+2c9f8447733f1f1a0173445e9db120e5|Apply markup and scripting languages to design and validate dynamic webpages
+2c9f8447733f1f1a0173445f15a220f5|Implement the complete web application development cycle as a term project
+2c9f8447733f1f1a0173445e45b320e1|Understand the basic concepts of web programming and web server architectures
+2c9f8447733f1f1a0173445ef18920f1|"Design, develop and deploy client/server applications"
+2c9fadbd781e432a017820516f16088c|"Integrate facts and concepts from ecological, physical and social sciences to characterize some common socio-environmental problems"
+2c9fadbd781e432a01782051d62a0890|Develop simple integrated systems and frameworks for solving common interconnected socio-environmental problems
+2c9fadbd781e432a017820522b790894|"Reflect critically about their roles and identities as citizens, consumers and environmental actors in a complex, interconnected world"
+2c9fadbd781e432a01782052af4c0898|Identify the ethical underpinnings of socio-environmental issues in general
+8a838345695bde660169a0ba58334508|Understand mathematical for cryptography
+8a838345695bde660169a0ba94e8450c|Understand classical cryptography techniques and apply cryptanalysis
+8a838345695bde660169a0bae15f4510|Analyze measures for securing cryptosystem
+8a838345695bde660169a0bb1ac04514|Apply and analyze operations on Feistel and non-Feistel structures
+8a838345695bde660169a0bb50474518|Perform asymmetric encryption
+8a838345695bde660169a0bb800c451c|Understand basic authentication schemes
+8a838345673ec61901673ee086df020f|Understand leading trends and systems in natural language processing
+8a838345673ec61901673ee0c8b3021c|Understand basic Probability Theory
+8a838345673ec61901673ee141880230|"Describe concepts of morphology, syntax, semantics and pragmatics of the language"
+8a838345673ec61901673ee1822d0241|Language Models and its evaluation
+2c9fadbd787b63db01787c74028709c4|Describe and analyse language � POS tagging and context free grammar for English language
+2c9fadbd787b63db01787c7473b409c8|Describe probabilistic graphic models and its applications
+2c9fadbd787b63db01787c74be5c09cc|Disambiguate sentences and find out entities present
+2c9fadbd787b63db01787c7594f909d0|Writing programs in Python to carry out natural language processing
+8a838345683c675d01687530931c2157|Quantification of chemical reactions and study their energetics.
+8a838345683c675d016875304cd72153|Get the knowledge about atomic and molecular structures and study different types of bonds.
+8a838345683c675d01687530c838215b|Study the mechanism of chemical reactions.
+8a838345695bde660169900730d30420|Trace computational states and analyze techniques/ strategies for given solutions
+8a838345695bde6601699006435f0411|"Apply computational thinking principles and algorithmic building blocks to understand, define, and solve problems"
+8a838345695bde6601699006aba30418|Design algorithms and implement solutions for problems
+8a838345695bde6601699006ea56041c|"Represent, organize, manipulate and interpret data"
+8a838345695bde660169900085dc032a|"Understand the fundamental Concepts of Computer architecture, storage, encoding, architecture and program execution"
+8a838345695bde6601699000dc07032e|Understand and apply algorithms for problem solving
+8a838345695bde660169900127140332|Understand the basics of operating system and networks
+8a838345695bde660169900173d80336|Understand Relational Database Management system performance
+8a838345695bde6601699001a6af033a|Understand and Apply Software Engineering Principles
+8a838345695bde6601699001debf033e|Understand the role of Artificial Intelligence and Graphics
+8a838345673ec61901673f6c40c506af|Identify and apply appropriate data structures to solve problems and improve their efficiency
+8a838345673ec61901673f6c86d406b7|Analyze the complexity of data structures and associated algorithms
+8a838345673ec61901673f6cc9f206bb|Analyze the impact of various implementation and design choices on the data structure performance
+8a838345673ec61901673f6d134f06c3|Conceptualize and build data structures based on application needs
+8a838345673ec61901673f6bb5b406a3|Understand the concept and functionalities of Data Structures
+8a838345695bde6601699f6b64bf34a8|Understand the correctness and analyze complexity of algorithms
+8a838345695bde6601699f6da2e534b5|Understand various algorithmic design techniques and solve classical problems
+8a838345695bde6601699f6df98c34bd|Solve real world problems by identifying and applying appropriate design techniques
+8a838345695bde6601699f6e3da034c6|Analyze and map a given real world problem to classical problems and find solution
+8a838345695bde6601699f6e9b4a34ca|Analyze the impact of various implementation choices on the algorithm complexity
+ff8081816dfc6da9016e443839972bdb|Understand the basic principles of cloud computing
+ff8081816dfc6da9016e443860e12bdf|Learn how Cloud Native application development happens
+ff8081816dfc6da9016e443885442be3|Apply cloud native application development for containerization and container orchestration
+ff8081816dfc6da9016e4438a9fb2be7|"Distinguish different types of cloud services � Delivery models, Deployment models"
+ff8081816dfc6da9016e4438f98f2bf0|"Implement different solution approaches in Cloud � containers in public cloud, setting up  cloud and convert monolithic applications to containers"
+8a838345695bde660169a52a979c7317|Understand the Architecture of simple Micro-processor
+8a838345695bde660169a52bdf067322|"Understand and apply the design aspects of I/O, Memory, bus and Communication Interfacing circuits."
+8a838345695bde660169a52bba51731e|Understand the Instruction Set and apply them to develop Assembly level programming
+8a838345695bde660169c29b223f2df7|Understand the basic concepts of probability and probability modelling
+8a838345695bde660169c29bc2522dfb|Gain knowledge about statistical distributions and their properties
+8a838345695bde660169c29c6d572e20|Know the importance of two dimensional random variables and correlation studies
+8a838345695bde660169c29cd8802e28|Understand the basic concepts of random processes and stationarity
+8a838345695bde660169c29d94a22e30|"Understand the concept of Markov chains, Poisson processes and their properties"
+8a838345695bde660169c29ea5372e3c|Gain knowledge about spectrum estimation and spectral density function
+8a838345695bde660169c2e9b07036df|"1. Understand the basic concepts of ODE, apply them in modeling and solving first order equations"
+8a83834568fa429a01691471719f31bc|Able to employ MSI ICs of appropriate configuration for realizing a digital system
+8a83834568fa429a01691471d50d31c0|Able to design and implement small digital system for a real-life problem
+8a838345677e875401678806a237361b|"Able to identify, configure and use off the shelf digital components"
+8a83834568fa429a01691471376e31b8|Able to realize and troubleshoot combinational and sequential digital circuits
+8a838345673ec61901673ecc39e4000d|Understand object oriented paradigm and represent the problem using objects and classes
+8a838345673ec61901673eccab410015|Apply the object oriented concepts to design and develop effective models using UML
+8a838345673ec61901673eccf64a0021|Develop program using object oriented concepts in Java
+8a838345673ec61901673ece37a50059|Understanding parallelizing of tasks and synchronization using threads
+8a838345673ec61901673ecef8ea0076|Design and develop and resuable program
+8a838345695bde660169c90bc71858da|Identify when a linear system is consistent and when it is inconsistent and interpret the solution geometrically. Dealing with the basis and dimension of the solution space and also with rank and nullity of the matrix.
+8a838345695bde660169c90d180e595d|Optimization problem consists of maximizing or minimizing a real function by systematically              choosing input values from within an allowed set and computing the value of the function
+8a838345695bde6601699b61a8f027db|Understand modularization and apply theoretical concepts to compiler construction
+8a838345695bde6601699b621d0227df|Apply algorithms for analyzing lexemes and structural correctness of source programs
+8a838345695bde660169a512cb7f7146|Analyze the design of type systems and check the correctness of code semantics (L4)
+8a838345695bde660169a51305af714a|xperiment intermediate representation and perform code control flow checking (L4)
+8a838345695bde660169a5134b927153|Apply code generation algorithms and improve the target code performance. (L4)
+8a838345683c675d016875209ecf20d4|"Understand, comprehend and acquaint with the concepts of Modern Physics � Special theory of relativity, Quantum Mechanics and Nuclear Physics"
+8a838345683c675d01687525025720e3|Analyze and Solve (idealized and quasi practical) physics problems pertaining to various concepts of Modern Physics.
+8a838345683c675d0168752522da20e7|Apply the concepts of Modern Physics to solve engineering problems that needs ideas from modern physics.
+8a838345695bde660169b415b0306000|CO4 Problem solving
+8a838345695bde6601699efe158a3011|Analyze electrical parameters of DC circuits using circuit laws.
+8a838345695bde6601699efe5f193015|Evaluate AC circuits in single and three phase systems.
+8a838345695bde6601699efeaf423019|Correlate electric and magnetic circuits.
+8a838345695bde6601699efefdb13022|Illustrate the concepts of electrical measurement systems.
+8a838345695bde6601699eff51623026|Understand the operation of transformers and induction motors.
+8a838345695bde6601699effae3b302a|"Develop rectifiers, amplifiers and regulators using various electronic devices."
+8a838345695bde660169a3d7b7725604|Understand the mathematical preliminaries for Information coding.
+8a838345695bde660169a3d7f912560f|To understand the need for different coding methods for different data.
+8a838345695bde660169a3d835d45613|Solve the problems associated different source coding techniques.
+8a838345695bde660169a3d8712a5617|Understand the operation of scalar and vector quantizer.
+8a838345695bde660169a3d8ad70561b|Implement the compression techniques to compress the different raw data
+8a838345695bde660169a3d8edc1561f|"Summarize the concepts associated speech, image and video compression"
+8a838345695bde660169a3d92d4a562c|Recognize the usage data compression in telecommunication engineering and to solve the corresponding problems.
+2c9fadbd782db63a01782f32a01f004d|Develop user dened libraries in mentioned programming language using standard programming practice
+2c9fadbd782db63a01782f2fb4e2003f|Understand the given programming language constructs
+2c9fadbd782db63a01782f3019d50043|Solve and implement known problems using learned concepts
+2c9fadbd782db63a01782f3088ca0047|Understand and apply external libraries in this programming language for high order applications.
+8a838345695bde660169a52c0d9e7326|Understand the Architecture of ARM family Microcontrollers - Hardware and Software aspects
+2c9fadbd7ac15275017ac1fa3eaf0028|Ability to identify area of research and conduct feasibility study
+2c9fadbd7ac15275017ac1fab3110030|Ability to identify the technology and tools to design a prototype
+2c9fadbd7ac15275017ac1fb9f6b0034|"Ability to implement and evaluate prototype, and prepare a documentation of your findings"
+2c9fadbd7ac15275017ac1fa846c002c|Ability to formulate a scientific problem and do the literature study
+8a838345689da61e0168a2637fcd0b95|"Build/Solder and test, residential wiring/Electronic circuits and measure electrical parameters."
+8a838345689da61e0168a26344a70b91|Understand electric laws using simulation studies and detect failures in electrical and electronic circuits.
+8a838345689da61e0168a263096d0b6d|"Understand electrical safety measures and identify electrical tools, electronic components and their symbols."
+8a838345689da61e0168a263b4310b99|Estimate the materials required for wiring a building.
+8a83834565dc8cac0165e6cf1d8a03fa|15ECE202.CO1 : Able to understand the basics of Boolean logic and the number system and codes for representing Boolean variables.
+8a83834565dc8cac0165e6cbef74037a|15ECE202.CO2 Able to frame Boolean equations and truth tables for formalizing real-life phenomena
+8a83834565dc8cac0165e6cc70320383|15ECE202.CO3 Able to apply the basics of Boolean logic and the number system and codes for representing Boolean variables.
+8a83834565dc8cac0165e6ccc9780392|15ECE202.CO4 Able to comprehend the design and working of basic combinational and sequential subsystems
+8a83834565dc8cac0165e6cd270f039b|15ECE202.CO5 Able to analyze and design sequential systems with minimal functionality
+2c9fadbd78288fe201782b735fa412fb|Understand the basics of the lambda calculus and combinators and how they are used in the implementation of functional languages
+2c9fadbd78288fe201782b74354612ff|Understand the concept of Modules and to implement our own type classes
+8a838345695bde660169ccbcfb89623a|"1. Understand the basic concepts of functions, limits, continuity, derivatives and definite integrals and the techniques of obtaining antiderivatives and analyze them"
+8a838345695bde660169ccbd487f623e|2. Apply the concept of  differentiability to find the extreme values of the given function and analyze the derivatives to sketch the graph of the given function
+8a838345695bde660169ccbe0a68625b|"3. Understand the notion of eigenvalues and  eigenvectors, analyze the possibility of diagonalization and hence compute a diagonal matrix, if possible"
+8a838345695bde660169ccbe86e6625f|4. Apply the knowledge of diagonalization to transform the given quadratic form into the principal axes form and analyze the given conic section
+8a838345695bde660169ccbf7c80627c|5. Understand  the advantages of the iterative techniques and apply  it to  solve the system of equations and finding eigenvectors.
+2c9fadbd77fa36a70177fe7311e42005|Present experimental data in various appropriate forms like tabulation and plots.
+2c9fadbd77fa36a70177fe73f34c2009|"Analyze, interpret and summarize experimental results."
+2c9fadbd77fa36a70177fe71c5c52001|Prepare the lab experiment and perform individually a wide spectrum of experiments.
+2c9fadbd77ff5d0501780176e1ff556e|Get the idea about primary standards and finding the concentration of acids and bases using indicators.
+2c9fadbd77ff5d05017801782a285576|Experience the mechanism of redox reagents and redox reactions and gives the practical knowledge about the same in finding out the strength of metal ions in solutions.
+2c9fadbd77ff5d0501780177f6985572|Study the formation of co-ordination complex molecules in the estimation of certain metal ions and analyse its practical applications.
+8a838345695bde660169901c629f0543|Develop solutions for problems systematically using structured logic approach
+8a838345695bde660169901c2eb0053f|Develop computer programs for a given problem scenario
+8a838345695bde660169901bb64e0537|Make use of the programming constructs effectively while developing computer programs.
+8a838345695bde660169901bf74b053b|Develop modular solutions for a given scenario.
+8a838345695bde660169c2eac62536eb|"4. Understand the vector functions, scalar and vector fields. Understand the derivatives of vector functions and its physical and geometrical interpretations. Understand the concept of gradient, divergence and curl and apply."
+8a838345695bde660169c2eb108836ef|5. Under the concept of line integrals and analyze the independence of path.
+8a838345695bde660169c2eb5bcd36f3|"6. Understand the concept of multiple integrals.  Apply Green�s theorem for plane, Gauss Divergence theorem and Stokes� theorem to evaluate the integrals of vector functions over the curves, regions and surfaces."
+8a838345695bde660169c2ea6bde36e7|3. Understand and apply the techniques of solving system of linear ODE Understand and analyze the critical points and stability of the system.
+8a838345695bde660169c2ea1a8936e3|2. Recall the techniques of solving second order linear homogeneous ODE with constant coefficients. Understand and modify the above techniques for solving Euler-Cauchy equations. Understand and apply methods of undetermined coefficients and variation of parameters to solve the second order linear no
+2c9fadbd77cbdd670177cee8450b0d2a|Analyse the performance of different implementations of a data structures
+2c9fadbd77cbdd670177cee8b31f0d32|Explore the use ofdata structure libraries for solving problems efficiently
+2c9fadbd780ed013017810b3de9e2f17|Integrate multiple data structuresfor real wold applications
+2c9fadbd77cbdd670177cee804f90d26|Implement linear and non-linear data structures as ADTs
+2c9fadbd77cbdd670177cee87e420d2e|Develop programs demonstrating modularity and reusability
+2c9fadbd7804835e0178074d8ccd6586|Develop reusable programs and applications using Inheritance.
+2c9fadbd7804835e0178074e9610658a|Develop reusable programs using packages and interfaces
+2c9fadbd7804835e017807503cf76597|Build and integrate Object oriented concepts for case study/project as a team.
+2c9fadbd7804835e0178074fa03d6593|Develop programs using Files.
+2c9fadbd7804835e0178074c80136582|"Understand and develop programs using classes, objects, static members and functions, Constructors, Compile time polymorphism using Java programming environment."
+8a8383456788d6e001679cbc3ccb707e|Understand the nature  and purpose of database systems.
+8a8383456788d6e001679cbc68327087|Formulate and apply relational algebraic expressions and SQL to query relational databases.
+8a8383456788d6e001679cbc97a5708b|Design ER models for real world applications.
+8a8383456788d6e001679cbcbfbb708f|Apply and analyse normalisation for refining relational database design.
+8a8383456788d6e001679cbce47d7093|"Understand Indexing ,Hashing,Transaction Processing and Concurrency Control"
+2c9fadbd77ff5d05017803100f5350ca|Analyze network protocol structure and functionality using packet analyzers
+2c9fadbd77ff5d050178031170e850ce|Design network systems and analyze communication patterns using simulators
+2c9fadbd77ff5d0501780311e46d50d2|Configure network devices using simulators
+2c9fadbd77ff5d050178030f715750c6|Implement network application using socket programming
+8a838345695bde660169712ade8e0175|Learn the basic syntax of R programming language in RStudio environment
+8a838345695bde660169712b9dd60181|Introduce machine learning algorithms for supervised and unsupervised learning
+8a838345695bde660169712bd0c80185|Evaluate the performance of models and degree of certainty of predictions
+8a838345695bde660169712b6c17017d|Conduct exploratory data analysis and create insightful visualizations to identify patterns.
+8a838345695bde660169712b30db0179|Pre-process raw data in R for further analysis
+8a838345676994a1016777c91edd04dd|Implement the complete web application development cycle as a term project.
+2c9fadbd7ac85806017ac8e5b9000015|Ability to implement the solution and prepare suitable documentation
+2c9fadbd7ac85806017ac8e51472000d|Ability to develop the software framework building on the prototype / usecase
+2c9fadbd7ac67903017ac7eafc870028|Ability to refine the problem statement
+2c9fadbd7ac85806017ac8e558430011|Ability to test the developed system for the functions defined
+8a838345695bde6601698faf5f9a027c|Learn about clustering and its variants like k-means and hierarchical clustering methods
+8a838345673ec61901674407a6660d31|Define the fuzzy systems.
+8a838345673ec61901674406e8820d29|Learn about CI  principles and their applications.
+8a838345673ec619016744075c990d2d|Analyse various neural network architectures.
+8a838345673ec61901674407e8120d35|Identify and select a suitable CI principle to solve engineering or real life problems
+2c9fadbd78a4971e0178a721c41426e6|To comprehend the fundamental concepts of life science in the perception of an engineer.
+2c9fadbd78a4971e0178a7225f1a26ea|To understand the basic Bioinformatics tools required to solve the problems pertained to Biological sciences.
+2c9fadbd78a4971e0178a722cfac26ee|To apply the engineering skills to develop Bioinformatics tool.
+2c9fadbd78a4971e0178a723498126f2|To apply the Machine learning concepts to address the Bioinformatics problems.
+8a838345695bde660169a7e155c0737a|"Understand the various searching techniques, constraint satisfaction problem and example problems- game playing techniques."
+8a838345695bde660169a7e2082e7382|"Apply these techniques in applications which involve perception, reasoning and learning."
+8a838345695bde660169a7e26b247386|Explain the role of agents and how it is related to environment and the way of evaluating it and how agents can act by establishing goals.
+8a838345695bde660169a7e2ca28738a|Acquire the knowledge of real world Knowledge representation.
+8a838345695bde660169a7e328d9738e|Analyze and design a real world problem for implementation and understand the dynamic behavior of a system.
+8a838345695bde660169b93769886822|"CO1: Asymptotic notation, Divide and Conquer and sorting/searching"
+8a838345695bde660169b937a0e86835|"CO1: Asymptotic notation, Divide and Conquer and sorting/searching"
+8a838345695bde660169b937c7a06839|Graph Algorithms
+8a838345695bde660169b9381f44684d|"Number theory, Comp geometry and Amortized analysis"
+2c9fadbd7861a4a7017864f463fd2387|Learn MATLAB Programming Constructs
+2c9fadbd7861a4a701786513810f263e|Solve and Implement Known Problem in ML and CV using Built-In toolbox
+2c9fadbd7861a4a70178651511ee2643|"Learn to Implement ML, CV algorithms to create user defined library/toolbox"
+8a838345673ec61901673ee117830229|Understanding the fundamental principles of image processing
+8a838345673ec61901673ee167b1023d|Apply the principles of image processing in spatial domain and explore standard spatial domain filters
+8a838345673ec61901673ee1a632024d|Analyze images in the frequency domain and explore the standard frequency domain filters
+8a838345673ec61901673ee1ec66025c|Analyze spatial and frequency domain filters for Image segmentation
+8a838345673ec61901673ee245820264|Apply feature extraction techniques in image processing to understand morphological operations and image segmentation
+8a838345673ec61901673ee2a4650275|Understand and explore the tools for performance testing of image processing techniques
+ff8081816c9953a4016cd7cd9d1f6e6d|Understand fundamental concepts  of Modeling and  Simulation
+ff8081816c9953a4016cd7ce3e8b6e71|Understand and Apply Different Statistical Models in Simulation.
+ff8081816c9953a4016cd7cf36fc6e75|Learn different techniques for Random number generation and their properties.
+ff8081816c9953a4016cd7cf94026e79|Learn how to generate Random variates for different distribution
+ff8081816c9953a4016cd7cfee8e6e7d|Develop simulators and do performance analysis of simple application scenarios. Simulation of a few real-life systems.
+ff8081816c9953a4016cd7d4c4c06e81|Doing Output Analysis of Simulation and Apply techniques for Verifications and Validation of Simulation Models
+2c9fadbd77ff5d05017803cb11081649|CO1:   To enhance communication skills.
+2c9fadbd77ff5d05017803cb7c56164d|CO2 :  To improve writing skills
+2c9fadbd77ff5d05017803cc0cae1651|CO3:   To promote analytical/critical skills
+2c9fadbd77ff5d05017803cc5bd91655|CO4:   To create environmental awareness
+2c9fadbd77ff5d05017803ccb4121659|CO5:   To lend insight into societal problems
+2c9fadbd77ff5d05017803ccfeac165d|CO6:   To build team spirit
+8a83834565dc8cac0165e6c36cbb025f|Understand the fundamental principles of first angle and third angle projections
+8a83834565dc8cac0165e6c4d10c028f|Dimension and label the drawings as per standards
+8a83834565dc8cac0165e6c54dc902b1|Construct the drawings by choosing appropriate line type
+8a83834565dc8cac0165e6c5d23c02c5|Visualize and construct projections of line and lamina when inclined to one reference plane and both reference planes
+8a83834565dc8cac0165e6cc9f0c038c|Visualize and construct solid entities in its simple position and when inclined to one reference plane
+8a838345695bde660169a52c3b55732a|Apply the Hardware and Software design aspects to develop Embedded system and Analyze the outcome
+2c9fadbd77ff5d050178021773d15195|Execute commands and Shell scripts to manage a typical Linux system.
+2c9fadbd77ff5d0501780218730e519f|Implement system calls for inter process communication for a given application.
+2c9fadbd77ff5d0501780218f0b351a8|Design algorithms for real world synchronization scenarios.
+2c9fadbd77ff5d050178021808c95199|Implement and analyze the algorithms for resource management and scheduling.
+2c9fadbd7804835e017807307f16573b|"Building the digital components like adder, subtractor etc. using Verilog and constructing the test bench"
+2c9fadbd7804835e0178073162895744|Design of complete combinational circuit design with verilog code and testbench
+2c9fadbd7804835e01780730c654573f|Design of complete sequential circuit design with verilog code and testbench
+2c9fadbd7804835e0178073026705737|Understanding the Basic and Universal logic gates and realizing the same through Verilog
+ff808181707faaa201707faf65140002|Appreciation of the legacy mobile network technologies providing background of the Computer Networks
+ff808181707faaa201707fb006670006|"Develop the knowledge of radio wave propagation mechanisms, propagation models and  path loss models"
+ff808181707faaa201707fb0c887000e|Raise the 5G awareness and prepare for legacy cellular architectures and enablers in 2G/3G/4G
+ff808181707faaa201707fb137f40012|"Expertise in some specific areas of heterogeneous wireless technologies such as Bluetooth, ZigBee, 6LowPAN etc."
+ff808181707faaa201707fb193150016|Expose students to analyse ongoing technical developments on topics related to mobile and wireless communications
+ff808181707faaa201707fb08769000a|Specialist knowledge of the interplay of concepts in the Wi-Fi technologies and expose to latest standards
+ff8081816c9953a4016ce1762b0b0037|Analyze the degree of certainty of predictions using statistical test and models
+ff8081816c9953a4016ce17603270033|Introduce machine learning algorithms for prediction/classification and to derive insights
+ff8081816c9953a4016ce17552270016|Understand the statistical foundations of data science
+ff8081816c9953a4016ce1759a08002b|Learn techniques to pre-process raw data so as to enable further analysis.
+ff8081816c9953a4016ce175c5d4002f|Conduct exploratory data analysis and create insightful visualizations to identify patterns.
+8a83834565dc8cac0165e6c89212033c|"Apply computational thinking principles to define, understand problems and arrive at logical decisions"
+8a83834565dc8cac0165e6c949720350|Represent organize and manipulate data using Spreadsheet
+8a83834565dc8cac0165e6c9c058035c|Explore and understand the basic building blocks of problem solving and algorithmic thinking using Scratch
+8a83834565dc8cac0165e6c8ff7c0347|Analyze problems and design algorithms
+2c9fadbd7804835e017806de9818228f|Practical knowledge about the electrochemical reactions and their mechanisms.
+2c9fadbd7804835e017806dedc652294|Get an understanding to find out the concentration of mixture of species as analytes.
+ff8081816e64fa27016e8dbfdb967ebf|"Appreciate the significance of R?m?ya?aas and itih?sa,and important aspects of B?lak???a"
+ff8081816e64fa27016e8de19a5b7ede|Understand the family values and ideal human relationships portrayed in the Ayodhyak???a and Aranyak???a of R?m?ya?a.
+ff8081816e64fa27016e8de1cec47ee2|"Understand dharma and its nuances, emphasizing its application Kishkindhak???a and Sundarak???a of Ramayana."
+ff8081816e64fa27016e8de216037ee6|Appreciate the triumph of dharma over adharma through Yuddhak???a of R?m?ya?a
+ff8081816e64fa27016e8de2608b7eea|Appreciate the spiritual values from R?m?ya?ainresolving personal and social conflicts through varied effective presentations of important episodes of the R?m?ya?a
+ff8081816d9b5eba016dce6c9c5f00a6|"Apply computational thinking principles and problem solving techniques to understand, define, and solve problems"
+ff8081816d9b5eba016dce6ea48500aa|Design algorithms and implement solutions for scenarios and problems
+ff8081816d9b5eba016dce6f015e00ae|"Represent,organize, manipulate and interpret data"
+ff8081816d9b5eba016dce6f3b8700b2|Analyze algorithmic building blocks and trace algorithm flow for states of computation
+ff8081816d9b5eba016dce6f7def00b6|Evaluate techniques and strategies employed to solve problems
+2c9fa372763f53b7017642d7ed6f14f7|Understand the basics of World Wide Web.
+2c9fa372763f53b7017642d8ce5d1500|Understand the fundamentals of HTML5.
+2c9fa372763f53b7017642d92f251504|Understand the fundamentals of CSS and Java Script.
+2c9fa372763f53b7017642d985a91508|Design and deploy a simple web application.
+ff8081816e4bd8c2016e64aef5f52667|Ability to understand the basic electric and magnetic circuits
+ff8081816e4bd8c2016e64af44bb266b|Ability to analyse DC and AC circuits
+ff8081816e4bd8c2016e64af803f266f|Ability to understand the basic principles of pn junctions and transistors
+ff8081816e4bd8c2016e64afba962673|Ability to analyse basic transistor and op amp based circuits
