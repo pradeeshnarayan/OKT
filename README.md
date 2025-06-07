@@ -32,16 +32,17 @@
 
   <h2>Usage</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/pradeeshnarayan/OKT-Model.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/pradeeshnarayan/OKT.git</code></li>
     <li>Install the required dependencies: <code>pip install -r requirements.txt</code></li>
     <li>Prepare your dataset: preprocess your data according to the format specified in the <code>data</code> directory.</li>
-    <li>Train and Evaluate the model: <code>python KT.py --data_path your_data_path --model_path your_model_path</code></li>
+    <li>Train and Evaluate the model: <code>python KT.py</code></li>
   </ol>
 
   <h2>Dataset</h2>
   <p>
     The dataset used for training and evaluation is not included in this repository.
     You will need to prepare your own dataset in the format specified in the <code>data</code> directory.
+    required only sample_data.csv all other will create automatically. 
   </p>
   <!--
   <h2>License</h2>
