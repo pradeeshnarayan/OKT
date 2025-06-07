@@ -26,18 +26,16 @@
   <h2>Requirements</h2>
   <ul>
     <li>Python 3.8+</li>
-    <li>TensorFlow 2.4+</li>
     <li>NumPy 1.20+</li>
     <li>Pandas 1.3+</li>
   </ul>
 
   <h2>Usage</h2>
   <ol>
-    <li>Clone the repository: <code>git clone https://github.com/your-repo/OKT-Model.git</code></li>
+    <li>Clone the repository: <code>git clone https://github.com/pradeeshnarayan/OKT-Model.git</code></li>
     <li>Install the required dependencies: <code>pip install -r requirements.txt</code></li>
     <li>Prepare your dataset: preprocess your data according to the format specified in the <code>data</code> directory.</li>
-    <li>Train the model: <code>python train.py --data_path your_data_path --model_path your_model_path</code></li>
-    <li>Evaluate the model: <code>python evaluate.py --data_path your_data_path --model_path your_model_path</code></li>
+    <li>Train and Evaluate the model: <code>python KT.py --data_path your_data_path --model_path your_model_path</code></li>
   </ol>
 
   <h2>Dataset</h2>
