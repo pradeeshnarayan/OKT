@@ -72,7 +72,7 @@ class OKT(nn.Module):
         self.words = words
         if args.kcnt == 0:
             print(self.args)
-            know_dic = open(os.path.join(self.args.workspace, 'CO_Embedding_CSE.csv'), 'r').read().split('\n')
+            know_dic = open(self.co_emb_file, 'r').read().split('\n')
             args.kcnt = len(know_dic)
         self.kcnt = args.kcnt
 

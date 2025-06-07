@@ -153,7 +153,7 @@ class trainn:
 
     def __init__(self, args,data,fold):
         self.topic_dic = {}
-        f = open("LSTM.json", 'r')
+        f = open("conf.json", 'r')
         args = Namespace(**json.load(f))
         with open(args.knowids, 'r') as file:
             concepts = [line.strip().split('|')[0] for line in file.readlines()]

@@ -17,7 +17,7 @@ class ExamObject:
         self.threshold = args[4] if len(args) > 2 else None
         self.target = args[5] if len(args) > 3 else None
         self.mapping = args[6] if len(args) > 4 else None
-        self.formID = args[7] if len(args) > 7 else None
+        self.examID = args[7] if len(args) > 7 else None
         self.examFeatures = args[8] if len(args) > 8 else None
         self.percentage = args[9] if len(args) > 9 else None
         self.attainment = args[10] if len(args) > 10 else None
@@ -37,16 +37,17 @@ class DataLoading:
         examFeatureFilename = self.exam_feature_file
         coEmbeddingFilename = self.co_emb_file
         df = df.sort_values(by = ['UserUID', 'Semester',"Exam_type"], ascending = [True, True, True], na_position = 'first')
-        df.loc[df['DifficultyLevel'].isin([1,2]),'Difficulty'] = 'Easy'
-        df.loc[df['DifficultyLevel'].isin([3,4]),'Difficulty'] = 'Medium'
-        df.loc[df['DifficultyLevel'].isin([5,6]),'Difficulty'] = 'Hard' 
+        df.loc[df['DifficultyLevel'].isin([1]),'Difficulty'] = 'Easy'
+        df.loc[df['DifficultyLevel'].isin([2]),'Difficulty'] = 'Medium'
+        df.loc[df['DifficultyLevel'].isin([3]),'Difficulty'] = 'Hard' 
+        print(df['Difficulty'].unique())
         data=df
         data['attainment']=data['percentage'].apply(lambda x: 0 if x<0.5 else 1)
         data[['Exam_type','Semester']] = data[['Exam_type','Semester']].astype(int)
         data['mappinglist'] = data.Mapping.apply(lambda x: [int(y) for y in x[0:].split(',')])
         one_hot_encoded_data = pd.get_dummies(data, columns = ['programCode', 'AcademicYear','Exam_type','Difficulty','Semester'])
         #one_hot_encoded_data.info()
-        exam_data = one_hot_encoded_data[["UserUID","CourseOutcomeID","CourseName","CourseOutcome","formID","percentage","attainment","Threshold","Target","Mapping"
+        exam_data = one_hot_encoded_data[["UserUID","CourseOutcomeID","CourseName","CourseOutcome","examID","percentage","attainment","Threshold","Target","Mapping"
         ,"Semester_1","Semester_2","Semester_3","Semester_4","Semester_5","Semester_6","Semester_7","Semester_8"
         ,"Exam_type_1","Exam_type_2","Exam_type_3","Exam_type_4"
         ,"Difficulty_Easy","Difficulty_Hard","Difficulty_Medium"
@@ -57,7 +58,7 @@ class DataLoading:
         exam_data["examFeatures"] = exam_data["examFeatures"].apply(lambda x: ','.join(map(str, x)))
         #exam_data['examFeatures'] = exam_data['examFeatures'].astype(int)
         exam_data[["UserUID","CourseOutcomeID","CourseName","CourseOutcome","Threshold","Target"
-                   ,"Mapping","formID","examFeatures","percentage","attainment"]].to_csv(examFeatureFilename)
+                   ,"Mapping","examID","examFeatures","percentage","attainment"]].to_csv(examFeatureFilename)
         
         unique_df = exam_data.drop_duplicates(subset=['CourseOutcomeID', 'CourseName','CourseOutcome',"Threshold","Target","Mapping"])
         unique_df["concat_co"] = "In course "+unique_df.CourseName+" with outcome "+unique_df.CourseOutcome 
@@ -87,7 +88,7 @@ class DataLoading:
         users = {}
         examFeatureFilename, coEmbeddingFilename = self.generateExamFeatures()
         self.courseOutcomes = self.readCourseOutcomeEmbedding(coEmbeddingFilename)
-        with open(os.path.join(self.workspace, examFeatureFilename), 'r') as read_obj:
+        with open(examFeatureFilename, 'r') as read_obj:
             # pass the file object to reader() to get the reader object
             csv_reader = reader(read_obj)
             headings = next(csv_reader)
@@ -105,7 +106,7 @@ class DataLoading:
 	
     def readCourseOutcomeEmbedding(self,filename):
         courseOutcomes = {}
-        with open(os.path.join(self.workspace,filename), 'r') as read_obj:
+        with open(filename, 'r') as read_obj:
             # pass the file object to reader() to get the reader object
             csv_reader = reader(read_obj)
             headings = next(csv_reader)

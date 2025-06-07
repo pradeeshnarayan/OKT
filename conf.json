@@ -16,7 +16,7 @@
   "epoch":200,
   "data_file":"data/sample_data.csv",
   "exam_feature_file":"data/exam_features.csv",
-  "co_emb_file":"data/exam_features.csv",
+  "co_emb_file":"data/co_embedding.csv",
   "knows":"data/CO.txt",
   "knowids":"data/COID.txt"
 }
