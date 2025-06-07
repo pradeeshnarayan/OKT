@@ -45,7 +45,7 @@
     The dataset used for training and evaluation is not included in this repository.
     You will need to prepare your own dataset in the format specified in the <code>data</code> directory.
   </p>
-
+  <!--
   <h2>License</h2>
   <p>
     This repository is licensed under the MIT License.
@@ -65,6 +65,7 @@
     This work was supported by [Your Funding Agency/Institution].<br>
     We would like to thank [Your Collaborators/Contributors] for their contributions to this project.
   </p>
+  -->
 
 </body>
 </html>
