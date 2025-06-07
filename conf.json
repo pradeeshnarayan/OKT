@@ -1,11 +1,7 @@
 {
-  "command": "config",
-  "emb_file": "data/emb_50.txt",
-  "k": 10,
+  "emb_file": "data/emb_co.txt",
   "kcnt": 382,
   "knowledge_hidden_size": 100,
-  "num_layers": 1,
-  "score_mode": "concat",
   "seq_hidden_size": 100,
   "topic_size": 100,
   "workspace": "data",

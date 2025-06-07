@@ -1,0 +1,2 @@
+test:fold,0,epoch,0, userid: 1, user: 1/7, exams, 62 (205.82 seqs/min), total loss, 0.495653,curr loss, 0.495653, mae, 0.591196, total acc, 0.403226, curr acc, 0.403226, total auc, 0.591795, curr auc, 0.591795, summary, 24/24, 1/38, predicted scores: [] 
+test:fold,0,epoch,0, userid: 6, user: 2/7, exams, 45 (623.90 seqs/min), total loss, 0.337162,curr loss, 0.178671, mae, 0.457677, total acc, 0.579391, curr acc, 0.755556, total auc, 0.645897, curr auc, 0.700000, summary, 34/36, 0/9, predicted scores: [] 
